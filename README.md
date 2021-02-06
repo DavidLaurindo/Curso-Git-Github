@@ -6,4 +6,4 @@
  Linha editada diretamento pelo Github.
  
  
-Link para livro GitPro-PT-BR: http://git-scm.com/book/pt-br/v2
+Link para livro GitPro: http://git-scm.com/book/pt-br/v2
