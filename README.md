@@ -41,3 +41,15 @@ ___
 - [ ] Tarefa-04
 ***
 [Acesse](https://www.google.com/search?q=alan+turing&source=lmns&bih=981&biw=1858&hl=pt-BR&sa=X&ved=2ahUKEwjO6YHMydXuAhVvFbkGHSGgASAQ_AUoAHoECAEQAA)
+
+num | nome | nota
+---|---|---
+1 | edu | 8,0
+2 | carcaraus | 10
+***
+Inserir comandos `document.getElementByName()` no Markdown.
+***
+```
+const meuCabecalho = document.querySelector('h1');
+meuCabecalho.textContent = 'Ola mundo!';
+```
