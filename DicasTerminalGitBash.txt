@@ -1,3 +1,13 @@
 Gerar conteudo padrão do HTML " ! " e Enter.
 
 git init - iniciar um repositório
+git add * - adiciona tudo que está na área de trabalho do git.
+git commit -m "mensagem de texto sobre o commit"
+git status - mostra se tem algum arquivo alterado.
+git remote add origin <link>
+git clone <link do github> - clonar do repositório remoto
+git remote -v - lista os repositorios remotos cadastrados.
+git push origin master
+git config --lista - mostra a configuração do repositório.
+git push origin master
+git pull origin master
