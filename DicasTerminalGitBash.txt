@@ -1,0 +1,3 @@
+Gerar conteudo padrão do HTML " ! " e Enter.
+
+git init - iniciar um repositório
