@@ -1,4 +1,4 @@
-Gerar conteudo padrão do HTML " ! " e Enter.
+Gerar conteudo padrão do HTML " ! " e Enter (irá gerar título, corpo, etc.).
 
 git init - iniciar um repositório
 git add * - adiciona tudo que está na área de trabalho do git.
